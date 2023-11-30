@@ -1,2 +1,2 @@
 # Gridworld-Reinforcement-Learning
-A dummy project in Reinforcement Learning. The code generates a Gridworld and then the RL algorithm solves it. The results both Gridworld and path, are shown in matplotlib pop up
+A simple Reinforcement Learning project. The RL algorithm solves the Gridworld that the code generates. The Gridworld and Path results are displayed in the matplotlib pop-up window.
