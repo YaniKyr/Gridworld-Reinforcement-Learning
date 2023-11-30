@@ -5,7 +5,7 @@ A simple Reinforcement Learning project. The RL algorithm solves the Gridworld t
 
 ## Example 1 10X10 Gridworld and the solution. 
 
-<img src="https://github.com/YaniKyr/Gridworld-Reinforcement-Learning/blob/main/mockups/Figure1.png"  width="30%" height="30%"> 
+<img src="https://github.com/YaniKyr/Gridworld-Reinforcement-Learning/blob/main/mockups/Figure_1.png"  width="30%" height="30%"> 
 
 ### The calculated values in the matrix, are represented below:
 
