@@ -4,9 +4,9 @@ A simple Reinforcement Learning project. The RL algorithm solves the Gridworld t
 # Examples
 
 ## Example 1 10X10 Gridworld and the solution. 
-<img src="https://github.com/YaniKyr/Gridworld-Reinforcement-Learning/mockups/figure1.png"  width="100%" height="100%"> 
+<img src="https://github.com/YaniKyr/Gridworld-Reinforcement-Learning/mockups/figure1.png"  width="50%" height="50%"> 
 ### The calculated values in the matrix, are represented below:
-<img src="https://github.com/YaniKyr/Gridworld-Reinforcement-Learning/mockups/fig1_Hetmap.png"  width="100%" height="100%"> 
+<img src="https://github.com/YaniKyr/Gridworld-Reinforcement-Learning/mockups/fig1_Hetmap.png"  width="50%" height="50%"> 
 
 ## Example 2 10X10 Gridworld and the solution. 
 <img src="https://github.com/YaniKyr/Gridworld-Reinforcement-Learning/mockups/figure2.png"  width="100%" height="100%"> 
